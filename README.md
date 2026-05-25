@@ -48,7 +48,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://facebook.com/your-link"><img src="https://skillicons.dev/icons?i=facebook"/></a>
-  <a href="mailto:yourgmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://linkedin.com/Lasindu dilshan"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://facebook.com/lasindu dilshan"><img src="https://skillicons.dev/icons?i=facebook"/></a>
+  <a href="dilshanlasindu038@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
