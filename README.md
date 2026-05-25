@@ -65,9 +65,7 @@
     <img src="https://skillicons.dev/icons?i=facebook"/>
   </a>
 
-  <a href="mailto:dilshanlasindu038@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
+
 
 </p>
 
